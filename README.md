@@ -1,15 +1,15 @@
-<h1 align="center">Hi , I'm Kieran Kihn</h1>
-<h3 align="center">A high school student from Henan Prov., China, who is studying Algorithm for competition</h3>
+<h1 align="center">Hi 👋, I'm Kieran Kihn</h1>
+<h3 align="center">A high school student from Henan Prov., China, who is studying Algorithm for the olympiad in informatic.</h3>
 
--  I’m currently working on [algotithm-codes-repo](https://github.com/doubleki7461/Codes)
+- 🔭 I’m currently working on [algotithm-codes-repo](https://github.com/doubleki7461/Codes)
 
--  I’m currently learning **algorithm**
+- 🌱 I’m currently learning **algorithm**
 
--  I regularly write articles on [https://blog.kierankihn.com](https://blog.kierankihn.com)
+- 📝 I regularly write articles on [https://blog.kierankihn.com](https://blog.kierankihn.com)
 
--  Ask me about **C++**
+- 💬 Ask me about **C++**
 
--  How to reach me **doubleki437461@gmail.com**
+- 📫 How to reach me **doubleki437461@gmail.com**
 
 ### Connect with me: 
 <a href="https://codeforces.com/profile/doubleki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="doubleki" height="30" width="40" /></a>
