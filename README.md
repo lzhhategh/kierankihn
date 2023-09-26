@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kieran Kihn</h1>
-<h3 align="center">A high school student from Henan Prov., China, who is studying Algorithm for the olympiad in informatic.</h3>
+<h3 align="center">A high school student from Henan Prov., China, who is studying algorithm for the Olympiad in informatic.</h3>
 
 - 🔭 I’m currently working on [algotithm-codes-repo](https://github.com/doubleki7461/Codes)
 
 - 🌱 I’m currently learning **algorithm**
 
-- 📝 I regularly write articles on [https://blog.kierankihn.com](https://blog.kierankihn.com)
+- 📝 I regularly write articles on [my personal blog](https://blog.kierankihn.com)
 
 - 💬 Ask me about **C++**
 
