@@ -15,7 +15,10 @@
 
 - 📫 How to reach me **i@kierankihn.com**
 
-![](https://github-readme-stats.vercel.app/api?username=kierankihn&theme=onedark) ![](https://streak-stats.demolab.com?user=kierankihn&theme=onedark)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=kierankihn&theme=onedark&show_icons=true">
+  <img src="https://streak-stats.demolab.com?user=kierankihn&theme=onedark">
+</div>
 
 ### Connect with me
 <a href="https://codeforces.com/profile/doubleki" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="doubleki" height="30" width="40" /></a>
