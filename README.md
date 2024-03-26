@@ -18,9 +18,7 @@
 <div align="center">
   <img width="400px" src="https://github.com/kierankihn/kierankihn/raw/main/metrics-left.svg"> <img width="400px" src="https://github.com/kierankihn/kierankihn/raw/main/metrics-right.svg">
   <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=kierankihn&theme=onedark&show_icons=true">
-  <br>
-  <img src="https://streak-stats.demolab.com?user=kierankihn&theme=onedark">
+  <img height="160px" src="https://github-readme-stats.vercel.app/api?username=kierankihn&theme=onedark&show_icons=true"> <img height="160px" src="https://streak-stats.demolab.com?user=kierankihn&theme=onedark">
 </div>
 
 ### Connect with me
