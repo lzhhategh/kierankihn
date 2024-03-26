@@ -16,7 +16,10 @@
 - 📫 How to reach me **i@kierankihn.com**
 
 <div align="center">
+  <img src="https://github.com/kierankihn/kierankihn/raw/main/metrics-left.svg"> <img src="https://github.com/kierankihn/kierankihn/raw/main/metrics-right.svg">
+  <br>
   <img src="https://github-readme-stats.vercel.app/api?username=kierankihn&theme=onedark&show_icons=true">
+  <br>
   <img src="https://streak-stats.demolab.com?user=kierankihn&theme=onedark">
 </div>
 
