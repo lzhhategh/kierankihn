@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kieran Kihn</h1>
 <h3 align="center">A high school student from Henan Prov., China</h3>
 
-- 🔭 I’m currently working on [ANi RSS](https://github.com/doubleki7461/go-ani-rss)
+- 🔭 I’m currently working on [ANi RSS](https://github.com/kierankihn/go-ani-rss)
 
 - 🌱 I'm a active OIer in china, who is studying **algorithm** for competition
   
