@@ -5,7 +5,7 @@
 
 - 🌱 I'm a active OIer in china, who is studying **algorithm** for competition
   
-- 🏆 I once won the first prize in NOIP in 2023, and I am preparing for NOI in 2024
+- 🏆 I once won the first prize in NOIP in 2023, and I am preparing for NOIP in 2024
   
 - 🎯 My goal is to enter the University Of Waterloo in Canada or USTC in China, and I'm working hard for it
 
