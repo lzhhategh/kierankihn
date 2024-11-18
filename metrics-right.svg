@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="397" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1211" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .bold{font-weight:600}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}.gemoji{height:1em;width:1em;margin-bottom:-.125em}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;color:#777}h2,h3{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400}h2 svg,h3 svg{fill:currentColor}h2{font-size:16px}h3,svg{font-size:14px}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}.column{display:flex;flex-direction:column;align-items:center}.no-wrap{white-space:nowrap}#metrics-end,.fill-width{width:100%}.no-margin-top{margin-top:0}svg.bar{margin:4px 0}.followup.legend{font-size:12px;flex-wrap:wrap}.followup.legend .field{width:46%;justify-content:flex-start;margin-left:8px}.followup.legend svg{margin:0 3px;width:14px;height:14px}.followup.legend svg:first-child{margin-left:0}.followup.legend svg:last-child{margin-right:0}.followup-title{white-space:initial}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit{display:flex;align-items:center}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .sha{margin-right:4px}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-winter-graph-day-L1-bg:#0a3069;--color-calendar-winter-graph-day-L2-bg:#0969da;--color-calendar-winter-graph-day-L3-bg:#54aeff;--color-calendar-winter-graph-day-L4-bg:#b6e3ff;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <style/>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
@@ -24,11 +24,11 @@
                                 <rect x="0" y="0" width="220" height="8" fill="white" rx="5"/>
                             </mask>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="88" height="8" fill="#238636"/>
-                            <rect mask="url(#issues-bar)" x="88" y="0" width="0" height="8" fill="#56d364"/>
-                            <rect mask="url(#issues-bar)" x="88" y="0" width="0" height="8" fill="#8B949E"/>
-                            <rect mask="url(#issues-bar)" x="88" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="88" y="0" width="132" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#238636"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#56d364"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#8B949E"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#c9d1d9"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="220" height="8" fill="#8957e5"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#c9d1d9"/>
@@ -39,14 +39,14 @@
                                     <path fill="#238636" d="M8 9.5a1.5 1.5 0 100-3 1.5 1.5 0 000 3z"/>
                                     <path fill="#238636" fill-rule="evenodd" d="M8 0a8 8 0 100 16A8 8 0 008 0zM1.5 8a6.5 6.5 0 1113 0 6.5 6.5 0 01-13 0z"/>
                                 </svg>
-                                <span class="no-wrap">8 <small>open</small></span>
+                                <span class="no-wrap">0 <small>open</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                     <path fill="#8957e5" fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                 </svg>
-                                <span class="no-wrap">12 <small>closed</small></span>
+                                <span class="no-wrap">20 <small>closed</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -73,10 +73,10 @@
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#56d364"/>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#8B949E"/>
                             <rect mask="url(#issues-bar)" x="0" y="0" width="0" height="8" fill="#c9d1d9"/>
-                            <rect mask="url(#issues-bar)" x="0" y="0" width="5.906040268456375" height="8" fill="#da3633"/>
-                            <rect mask="url(#issues-bar)" x="5.906040268456375" y="0" width="0" height="8" fill="#ff7b72"/>
-                            <rect mask="url(#issues-bar)" x="5.906040268456375" y="0" width="214.09395973154363" height="8" fill="#8957e5"/>
-                            <rect mask="url(#issues-bar)" x="220" y="0" width="0" height="8" fill="#d2a8ff"/>
+                            <rect mask="url(#issues-bar)" x="0" y="0" width="5.866666666666667" height="8" fill="#da3633"/>
+                            <rect mask="url(#issues-bar)" x="5.866666666666667" y="0" width="0" height="8" fill="#ff7b72"/>
+                            <rect mask="url(#issues-bar)" x="5.866666666666667" y="0" width="214.13333333333335" height="8" fill="#8957e5"/>
+                            <rect mask="url(#issues-bar)" x="220.00000000000003" y="0" width="0" height="8" fill="#d2a8ff"/>
                         </svg>
                         <div class="followup legend field fill-width">
                             <div class="field">
@@ -89,7 +89,7 @@
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                     <path fill="#8957e5" fill-rule="evenodd" d="M5 3.254V3.25v.005a.75.75 0 110-.005v.004zm.45 1.9a2.25 2.25 0 10-1.95.218v5.256a2.25 2.25 0 101.5 0V7.123A5.735 5.735 0 009.25 9h1.378a2.251 2.251 0 100-1.5H9.25a4.25 4.25 0 01-3.8-2.346zM12.75 9a.75.75 0 100-1.5.75.75 0 000 1.5zm-8.5 4.5a.75.75 0 100-1.5.75.75 0 000 1.5z"/>
                                 </svg>
-                                <span class="no-wrap">145 <small>merged</small></span>
+                                <span class="no-wrap">146 <small>merged</small></span>
                             </div>
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -121,29 +121,116 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M8.878.392a1.75 1.75 0 00-1.756 0l-5.25 3.045A1.75 1.75 0 001 4.951v6.098c0 .624.332 1.2.872 1.514l5.25 3.045a1.75 1.75 0 001.756 0l5.25-3.045c.54-.313.872-.89.872-1.514V4.951c0-.624-.332-1.2-.872-1.514L8.878.392zM7.875 1.69a.25.25 0 01.25 0l4.63 2.685L8 7.133 3.245 4.375l4.63-2.685zM2.5 5.677v5.372c0 .09.047.171.125.216l4.625 2.683V8.432L2.5 5.677zm6.25 8.271l4.625-2.683a.25.25 0 00.125-.216V5.677L8.75 8.432v5.516z"/>
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pre-released
-                                        <span class="bold">v1.1.0-rc1</span>
-                                        of
-                                        <span class="repo">kierankihn/comic-renamer</span>
+                                        Pushed 843 commits in
+                                        <span class="repo">kierankihn/Codes</span>
                                     </div>
                                 </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.5 7.775V2.75a.25.25 0 01.25-.25h5.025a.25.25 0 01.177.073l6.25 6.25a.25.25 0 010 .354l-5.025 5.025a.25.25 0 01-.354 0l-6.25-6.25a.25.25 0 01-.073-.177zm-1.5 0V2.75C1 1.784 1.784 1 2.75 1h5.025c.464 0 .91.184 1.238.513l6.25 6.25a1.75 1.75 0 010 2.474l-5.026 5.026a1.75 1.75 0 01-2.474 0l-6.25-6.25A1.75 1.75 0 011 7.775zM6 5a1 1 0 100 2 1 1 0 000-2z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Created new
-                      tag
-                                        <span class="code">v1.1.0-rc1</span>
-                                        in
-                                        <span class="repo">kierankihn/comic-renamer</span>
+                                <div class="details">
+                                    <div>on branch <span class="code">main</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#d65369d</div>
+                                        <div class="message">创建 P1216 [USACO1.5][IOI1994]数字三角形 Number Triangles.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7fb05e3</div>
+                                        <div class="message">提交了 AtCoder Beginner Contest 279
+
+提交了 AtCoder Beginner Contest 279</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e54c193</div>
+                                        <div class="message">创建 B. XOR = Average.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6d27bfc</div>
+                                        <div class="message">更新 D. Challenging Valleys.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#1e76987</div>
+                                        <div class="message">更新 P1678 烦恼的高考志愿.cpp
+
+删除了文件输入输出</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#bf83e81</div>
+                                        <div class="message">创建 P1678 烦恼的高考志愿.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#3836c77</div>
+                                        <div class="message">更新 .gitignore
+
+增加了对输入输出文件的忽略</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6fb18ad</div>
+                                        <div class="message">创建 A. SSeeeeiinngg DDoouubbllee.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#6731b24</div>
+                                        <div class="message">更新 D. Challenging Valleys.cpp
+
+对bool check(int a[20005],int n)函数进行了更改（仍为Test case 5 Time Limit Error）</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#e3e0aa5</div>
+                                        <div class="message">提交了D. Challenging Valleys （并未AC）
+
+提交了D. Challenging Valleys （并未AC）</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cfc4b3f</div>
+                                        <div class="message">创建 A. Medium Number.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c9ba8f0</div>
+                                        <div class="message">创建 B. Atilla's Favorite Problem.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#012919b</div>
+                                        <div class="message">更正了文件命名模式</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f7a0041</div>
+                                        <div class="message">移动了 \Codes\Codeforces\Codeforces Round #835 (Div. 4) 中的文件到正确的文件夹下
+
+原本应该在 Codes\AtCoder\AtCoder Beginner Contest 278\ 下的文件被错误的放在了
+ \Codes\Codeforces\Codeforces Round #835 (Div. 4) 下
+本次提交纠正了这个错误</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#19f759a</div>
+                                        <div class="message">提交了C - Advantage
+
+提交了Codeforces Round #835 (Div. 4)中的C - Advantage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#f78557c</div>
+                                        <div class="message">提交了洛谷P1873 [COCI 2011/2012 #5] EKO / 砍树
+
+提交了洛谷题目 P1873 [COCI 2011/2012 #5] EKO / 砍树</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#af28cce</div>
+                                        <div class="message">更新 README.md
+
+Co-Authored-By: doubleki7461 &lt;114803508+doubleki7461@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#77706d5</div>
+                                        <div class="message">更新 README.md
+
+Co-Authored-By: doubleki7461 &lt;114803508+doubleki7461@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#eb925ba</div>
+                                        <div class="message">提交了之前的代码文件</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#76538e4</div>
+                                        <div class="message">Initial commit</div>
                                     </div>
                                 </div>
                             </section>
@@ -155,15 +242,113 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">kierankihn/comic-renamer</span>
+                                        Pushed 843 commits in
+                                        <span class="repo">kierankihn/Codes</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
+                                    <div>on branch <span class="code">main</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c2beaaa</div>
-                                        <div class="message">chore: <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> update .gitignore</div>
+                                        <div class="sha">#890d0a5</div>
+                                        <div class="message">创建 P1216 [USACO1.5][IOI1994]数字三角形 Number Triangles.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#770285b</div>
+                                        <div class="message">提交了 AtCoder Beginner Contest 279
+
+提交了 AtCoder Beginner Contest 279</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#dbffe4f</div>
+                                        <div class="message">创建 B. XOR = Average.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4c786f</div>
+                                        <div class="message">更新 D. Challenging Valleys.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#782b719</div>
+                                        <div class="message">更新 P1678 烦恼的高考志愿.cpp
+
+删除了文件输入输出</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d05cf44</div>
+                                        <div class="message">创建 P1678 烦恼的高考志愿.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fb09c1c</div>
+                                        <div class="message">更新 .gitignore
+
+增加了对输入输出文件的忽略</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#64928e2</div>
+                                        <div class="message">创建 A. SSeeeeiinngg DDoouubbllee.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#2dc8739</div>
+                                        <div class="message">更新 D. Challenging Valleys.cpp
+
+对bool check(int a[20005],int n)函数进行了更改（仍为Test case 5 Time Limit Error）</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#afa6b2c</div>
+                                        <div class="message">提交了D. Challenging Valleys （并未AC）
+
+提交了D. Challenging Valleys （并未AC）</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8545b25</div>
+                                        <div class="message">创建 A. Medium Number.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#21142a1</div>
+                                        <div class="message">创建 B. Atilla's Favorite Problem.cpp</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#be316f0</div>
+                                        <div class="message">更正了文件命名模式</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b50b2c2</div>
+                                        <div class="message">移动了 \Codes\Codeforces\Codeforces Round #835 (Div. 4) 中的文件到正确的文件夹下
+
+原本应该在 Codes\AtCoder\AtCoder Beginner Contest 278\ 下的文件被错误的放在了
+ \Codes\Codeforces\Codeforces Round #835 (Div. 4) 下
+本次提交纠正了这个错误</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#43fc85d</div>
+                                        <div class="message">提交了C - Advantage
+
+提交了Codeforces Round #835 (Div. 4)中的C - Advantage</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#35da36f</div>
+                                        <div class="message">提交了洛谷P1873 [COCI 2011/2012 #5] EKO / 砍树
+
+提交了洛谷题目 P1873 [COCI 2011/2012 #5] EKO / 砍树</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d526d3c</div>
+                                        <div class="message">更新 README.md
+
+Co-Authored-By: doubleki7461 &lt;114803508+doubleki7461@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#964b3e1</div>
+                                        <div class="message">更新 README.md
+
+Co-Authored-By: doubleki7461 &lt;114803508+doubleki7461@users.noreply.github.com&gt;</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#c8aafb9</div>
+                                        <div class="message">提交了之前的代码文件</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cf84d91</div>
+                                        <div class="message">Initial commit</div>
                                     </div>
                                 </div>
                             </section>
@@ -172,19 +357,16 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">kierankihn/comic-renamer</span>
+                                        Closed
+                                        <span class="issue">#85 [Review Problem][XCGZOJ P8272] SOLDIERS / 士兵</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#d8e28f7</div>
-                                        <div class="message">chore: <img class="gemoji" src="data:image/png;base64,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" height="16" width="16" alt="" /> new version</div>
-                                    </div>
+                                    <div>opened  in <span class="repo">kierankihn/Codes</span></div>
                                 </div>
                             </section>
                         </div>
@@ -192,15 +374,33 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M11.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122V6A2.5 2.5 0 0110 8.5H6a1 1 0 00-1 1v1.128a2.251 2.251 0 11-1.5 0V5.372a2.25 2.25 0 111.5 0v1.836A2.492 2.492 0 016 7h4a1 1 0 001-1v-.628A2.25 2.25 0 019.5 3.25zM4.25 12a.75.75 0 100 1.5.75.75 0 000-1.5zM3.5 3.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0z"/>
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
                                     <div class="content">
-                                        Created new
-                      branch
-                                        <span class="code">dev</span>
-                                        in
-                                        <span class="repo">kierankihn/comic-renamer</span>
+                                        Closed
+                                        <span class="issue">#92 [Review Problem][XCGZOJ P2351] Matrix</span>
                                     </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">kierankihn/Codes</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
+                                        <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Closed
+                                        <span class="issue">#90 [Review Problem][XCGZOJ P1271 / Luogu P4403 / BJWC2008] 秦腾与教学评估</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened  in <span class="repo">kierankihn/Codes</span></div>
                                 </div>
                             </section>
                         </div>
